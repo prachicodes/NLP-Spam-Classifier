@@ -1,5 +1,5 @@
 # Spam-Classfier
-To classify the SMS tagged messages as SPAM or HAM using NLP Techniques
+To classify the SMS tagged messages as SPAM(unsolicited bulk messages) or HAM(emails that are not SPAM) using NLP Techniques
 
 Modeled using three approaches: 
 1. Spam Classifier using Stemming and Bag of words Model 
